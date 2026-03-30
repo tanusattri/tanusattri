@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Tanu Singh Attri</h1>
+<h1 align="center">Hi, I'm Tanu Singh Attri</h1>
 <h3 align="center">Aspiring Data Analyst | B.Tech CSE-DS Student | Turning Data into Insights</h3>
 
 ---
