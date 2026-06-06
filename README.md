@@ -74,5 +74,3 @@
 </p>
 
 ---
-
-### 📈 Core Engineering Workflow
